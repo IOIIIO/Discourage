@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-namespace Haack.Encourage
+namespace IOIIIO.Discourage
 {
     public interface IEncouragements
     {

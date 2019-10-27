@@ -4,7 +4,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using Microsoft.VisualStudio.Shell;
 
-namespace Haack.Encourage.Options
+namespace IOIIIO.Discourage.Options
 {
     /// <summary>
     ///     Interaction logic for OptionsDialogPageControl.xaml

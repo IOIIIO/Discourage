@@ -5,7 +5,7 @@ using System.Windows;
 using Microsoft.VisualStudio.ComponentModelHost;
 using Microsoft.VisualStudio.Shell;
 
-namespace Haack.Encourage.Options
+namespace IOIIIO.Discourage.Options
 {
     [ClassInterface(ClassInterfaceType.AutoDual)]
     [CLSCompliant(false)]

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncouragePackage", "EncouragePackage\EncouragePackage.csproj", "{4A77FC23-A472-47C8-93B5-F59691F53201}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscouragePackage", "EncouragePackage\DiscouragePackage.csproj", "{4A77FC23-A472-47C8-93B5-F59691F53201}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Meta", "Meta", "{A84D9A09-F54D-4723-BECD-42E9AD5807EA}"
 	ProjectSection(SolutionItems) = preProject
@@ -25,5 +25,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F1ED914-3434-4B8F-95E7-671F4A33785F}
 	EndGlobalSection
 EndGlobal

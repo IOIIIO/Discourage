@@ -1,8 +1,8 @@
 ﻿using System.Runtime.InteropServices;
-using Haack.Encourage.Options;
+using IOIIIO.Discourage.Options;
 using Microsoft.VisualStudio.Shell;
 
-namespace Haack.Encourage
+namespace IOIIIO.Discourage
 {
     /// <summary>
     /// This is the class that implements the package exposed by this assembly.

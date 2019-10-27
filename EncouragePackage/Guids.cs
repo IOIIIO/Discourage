@@ -2,7 +2,7 @@
 // MUST match guids.h
 using System;
 
-namespace Haack.Encourage
+namespace IOIIIO.Discourage
 {
     static class GuidList
     {
