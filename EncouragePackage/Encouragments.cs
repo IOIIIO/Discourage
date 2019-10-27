@@ -17,20 +17,17 @@ namespace Haack.Encourage
         static readonly Random random = new Random();
         static readonly string[] defaultEncouragements = new[]
         {
-            "Nice Job!",
-            "Way to go!",
-            "Wow, nice change!",
-            "So good!",
-            "Bravo!",
-            "You rock!",
-            "Well done!",
-            "I see what you did there!",
-            "Genius work!",
-            "Thumbs up!",
-            "Coding win!",
-            "FTW!",
-            "Yep!",
-            "Nnnnailed it!"
+            "That was pretty meh...",
+            "Uh... are you ok?",
+            "Not sure about what you just did there...",
+            "Do you want me to be nice... or honest?",
+            "Maybe you should take the rest of the day off...",
+            "I'm not going to say you made a mistake... but...",
+            "Was that a typo, or...",
+            "Yikes...",
+            "Disappointing.",
+            "You should get some help...",
+            "Maybe programming isn't for you..."
         };
 
         readonly List<string> encouragements = new List<string>(defaultEncouragements);

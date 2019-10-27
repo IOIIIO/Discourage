@@ -1,3 +1,6 @@
+### New in 2.0.0 (Released 2019/10/27)
+* Remove the encouragement - @IOIIIO
+
 ### New in 1.2.2 (Released 2019/04/08)
 * Support for Visual Studio 2019 - #50 via @dennisroche
 
